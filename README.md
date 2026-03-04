@@ -2,7 +2,7 @@
 
 🚀 **Flutter & Fullstack Developer** | Passionate about **Dynamic Development** | 🌱 **Aspiring Data Engineer & Database Engineer**
 
-I am a **Flutter** and **Laravel Fullstack** developer specializing in building **interactive** and **responsive** mobile and web applications. By combining these technologies, I create scalable, efficient, and user-friendly solutions.
+I am a **Flutter** and **Web Fullstack** developer specializing in building **interactive** and **responsive** mobile and web applications. By combining these technologies, I create scalable, efficient, and user-friendly solutions.
 
 💡 I have a deep passion for **dynamic Fullstack development** and am currently expanding my expertise into **Data Engineering** and **Database Engineering**, learning modern tools like **dbt** and **Airbyte** to build smarter, data-driven systems.
 
