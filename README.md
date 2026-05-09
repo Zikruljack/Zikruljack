@@ -2,14 +2,15 @@
 
 **Flutter & PHP Fullstack Developer**
 
-I build mobile apps with Flutter and full-stack web applications with CodeIgniter 4 — focused on shipping interfaces that are fast, maintainable, and pleasant to use.
+I build mobile apps with Flutter and full-stack web applications with CodeIgniter 4 — focused on shipping interfaces that are fast, maintainable, and pleasant to use. Experienced in building regional tax management systems for government clients.
 
 🔧 **What I work with**
 - 📱 **Flutter** — production mobile apps for Android and iOS
 - 🌐 **CodeIgniter 4 (PHP)** — primary fullstack framework, API to UI
+- ⚡ **Express.js (Node)** — REST API services, used in govtech projects
 - 🎨 **Nuxt.js** — for projects that need a dedicated SPA frontend
 - 🗄️ **MySQL / MariaDB / PostgreSQL** — schema design and query optimization
-- 🐳 **Docker, Nginx** — deployment and environment consistency
+- 🐳 **Docker, Nginx, Ansible** — deployment and environment consistency
 
 🎯 **Currently focused on** deepening my Flutter and PHP fullstack craft — cleaner architecture, better performance, building things people actually use.
 
